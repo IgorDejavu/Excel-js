@@ -1,0 +1,30 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JS Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorDejavu/Excel-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "IgorDejavu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorDejavu/Excel-js/issues"
+  },
+  "homepage": "https://github.com/IgorDejavu/Excel-js#readme",
+  "devDependencies": {
+    "webpack": "^5.19.0",
+    "webpack-cli": "^4.4.0"
+  }
+}

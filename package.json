@@ -44,5 +44,8 @@
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^3.11.2"
   },
-  "browserslist": "> 0.5%, last 2 versions, Firefox ESR, not IE 11, not dead"
+  "browserslist": "> 0.5%, last 2 versions, Firefox ESR, not IE 11, not dead",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
